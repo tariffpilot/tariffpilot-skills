@@ -1,24 +1,24 @@
 {
   "name": "tariffpilot-skills",
   "description": "Official TariffPilot plugins for customs tariff classification and export control classification with AI assistants, through the TariffPilot Manager MCP server.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "owner": {
     "name": "TariffPilot GmbH",
     "url": "https://tariffpilot.com"
   },
   "plugins": [
     {
-      "name": "tariffpilot-headless",
-      "displayName": "TariffPilot Headless",
-      "source": "./plugins/tariffpilot-headless",
+      "name": "tariffpilot",
+      "displayName": "TariffPilot",
+      "source": "./plugins/tariffpilot",
       "description": "Create customs tariff proposals and export control classification proposals (dual-use, military goods) in natural language, through the TariffPilot Manager MCP server.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "category": "productivity",
       "author": {
         "name": "TariffPilot GmbH",
         "url": "https://tariffpilot.com"
       },
-      "homepage": "https://github.com/tariffpilot/tariffpilot-skills/tree/main/plugins/tariffpilot-headless",
+      "homepage": "https://github.com/tariffpilot/tariffpilot-skills/tree/main/plugins/tariffpilot",
       "repository": "https://github.com/tariffpilot/tariffpilot-skills",
       "license": "Apache-2.0",
       "keywords": ["tariffpilot", "headless", "mcp", "customs", "hs-code", "dual-use", "export-control"],

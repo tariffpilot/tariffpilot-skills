@@ -1,4 +1,4 @@
-# tariffpilot-headless
+# TariffPilot
 
 Create customs tariff proposals and export control classification proposals (dual-use, military goods) through the TariffPilot Manager MCP server.
 
@@ -19,7 +19,7 @@ A TariffPilot proposal is processed in several steps of up to several minutes ea
 
 ```bash
 /plugin marketplace add tariffpilot/tariffpilot-skills
-/plugin install tariffpilot-headless@tariffpilot-skills
+/plugin install tariffpilot@tariffpilot-skills
 ```
 
 ## Requirements

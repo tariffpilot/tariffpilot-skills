@@ -14,7 +14,7 @@
 
 | Plugin | What it does |
 |---|---|
-| [`tariffpilot-headless`](plugins/tariffpilot-headless) | Customs tariff proposals and export control classification proposals through the TariffPilot Manager MCP server. Contains the skills `tariffpilot-customs-tariff-proposal` and `tariffpilot-classification-proposal`. |
+| [`tariffpilot`](plugins/tariffpilot) | Customs tariff proposals and export control classification proposals through the TariffPilot Manager MCP server. Contains the skills `tariffpilot-customs-tariff-proposal` and `tariffpilot-classification-proposal`. |
 
 ## Installation
 
@@ -22,7 +22,7 @@
 
 ```bash
 /plugin marketplace add tariffpilot/tariffpilot-skills
-/plugin install tariffpilot-headless@tariffpilot-skills
+/plugin install tariffpilot@tariffpilot-skills
 ```
 
 ### Claude desktop app
