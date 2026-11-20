@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tariffpilot-manager": {
+      "type": "http",
+      "url": "https://app-cloud.tariffpilot.com/mcp"
+    }
+  }
+}

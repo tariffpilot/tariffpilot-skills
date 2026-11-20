@@ -1,0 +1,4 @@
+interface:
+  display_name: "TariffPilot headless"
+  short_description: "Classify goods in TariffPilot through MCP"
+  default_prompt: "Use $tariffpilot-customs-tariff-proposal to classify goods in the customs tariff with TariffPilot through MCP."
