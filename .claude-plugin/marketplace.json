@@ -12,7 +12,7 @@
       "displayName": "TariffPilot Headless",
       "source": "./plugins/tariffpilot-headless",
       "description": "Create customs tariff proposals and export control classification proposals (dual-use, military goods) in natural language, through the TariffPilot Manager MCP server.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "author": {
         "name": "TariffPilot GmbH",
