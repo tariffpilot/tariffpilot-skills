@@ -1,7 +1,7 @@
 {
   "name": "tariffpilot-headless",
   "description": "Create customs tariff proposals and export control classification proposals (dual-use, military goods) through the TariffPilot Manager MCP server.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "TariffPilot GmbH",
     "url": "https://tariffpilot.com"
@@ -9,6 +9,8 @@
   "homepage": "https://github.com/tariffpilot/tariffpilot-skills",
   "repository": "https://github.com/tariffpilot/tariffpilot-skills",
   "license": "Apache-2.0",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.tariffpilot.com/en/privacy/",
   "keywords": ["tariffpilot", "headless", "mcp", "customs", "hs-code", "dual-use", "export-control"],
   "mcpServers": "./.mcp.json"
 }
